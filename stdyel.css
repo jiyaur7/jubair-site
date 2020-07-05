@@ -1,0 +1,90 @@
+<style> 
+    body{
+        margin: 0px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    h1{
+        font-size: 45px;
+    }
+    .name{
+        color: blue;
+    }
+    h3:hover{
+        color: rgb(199, 21, 66);
+    }
+   h1:hover{
+       color: maroon;
+       font-size: 50px;
+   }
+   h2:hover{
+       color: rgb(235, 69, 185);
+   }
+    .half-with{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+        font-size: 25px;
+    }
+    .half-with img{
+        width: 100%;
+    }
+    .back{
+        background-image: url("");
+        background-repeat: no-repeat;
+    }
+    section{
+        height: 500px;
+    }
+    .link{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, lightsalmon, tomato);
+        padding: 2% 7%;
+        border-radius: 5px;
+        color: wheat;
+        font-weight: 700;
+    }
+    .dream{
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-position: right;}
+    .single{
+        box-shadow: 10px 10px 40px gray ;
+        border-radius: 5px;
+        height: 300px;
+        background-color: white;
+        
+
+    }
+    #full{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,lightsalmon, tomato);
+        border-image-slice: 1;
+    }
+    #vai{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,rgb(91, 251, 59), rgb(26, 138, 243));
+        border-image-slice: 1;
+    }
+    .colo{
+        color: blueviolet;
+    }
+    .color{
+        color: rgb(0, 38, 252);
+        
+    }
+    .colo:hover{
+        color: orange;
+    }
+    .color:hover{
+        color:green;
+    }
+    h3{
+        color: lightsalmon;
+    }
+    
+   
+  
+    
+    </style>
